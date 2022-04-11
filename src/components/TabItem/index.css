@@ -1,0 +1,19 @@
+.list-con {
+  list-style: none;
+}
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: #7b8794;
+  font-weight: 700;
+  padding: 4px;
+}
+.is-active {
+  border-bottom-color: #2563eb;
+  color: #2563eb;
+}

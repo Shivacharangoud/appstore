@@ -1,0 +1,26 @@
+.app-con {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 10px;
+  list-style: none;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 150px;
+}
+.app-name {
+  color: #1e293b;
+  font-size: 14px;
+  font-weight: 600;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+* {
+  box-sizing: border-box;
+}
