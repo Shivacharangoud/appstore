@@ -1,4 +1,9 @@
-In this project, let's build an **App Store** by applying the concepts we have learned till now.
+REACTAPP LINK: https://appstorech.ccbp.tech/ .
+Developed an playstore application where the user can find the apps based on the selected category and the user can also search for a specific app by using input field with in the selected category.
+Includes : react components, state, event handlers.
+Technologies used: React JS, CSS, JSX.
+To see main file go to src folder.
+
 
 ### Refer to the image below:
 
