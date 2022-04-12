@@ -1,6 +1,6 @@
 REACTAPP LINK: https://appstorech.ccbp.tech/ .
-Developed an playstore application where the user can find the apps based on the selected category and the user can also search for a specific app by using input field with in the selected category.
-Includes : react components, state, event handlers.
+Developed an playstore application where the user can find the apps based on the selected category and the user can also search for a specific app by using input field with in the selected category.It is an responsive application
+Includes : react components, state, event handlers, css flex box.
 Technologies used: React JS, CSS, JSX.
 To see main file go to src folder.
 
